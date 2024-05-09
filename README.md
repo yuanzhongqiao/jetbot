@@ -1,28 +1,23 @@
-# JetBot
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">喷射机器人</font></font></h1><a id="user-content-jetbot" class="anchor" aria-label="永久链接：JetBot" href="#jetbot"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
-<!--[<img src="https://img.shields.io/discord/553852754058280961.svg">](https://discord.gg/Ady6NtF) -->
+<blockquote>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">正在寻找快速开始使用 JetBot 的方法？许多第三方套件</font></font><a href="https://jetbot.org/master/third_party_kits.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现已推出</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">！</font></font></p>
+</blockquote>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/NVIDIA-AI-IOT/jetbot/wiki/images/jetson-jetbot-illustration_1600x1260.png"><img src="/NVIDIA-AI-IOT/jetbot/wiki/images/jetson-jetbot-illustration_1600x1260.png" height="256" style="max-width: 100%;"></a></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JetBot 是一款基于 NVIDIA Jetson Nano 的开源机器人</font></font></p>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">经济实惠</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- Jetson Nano 附加组件不到 150 美元</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教育</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">- 从基本运动到基于人工智能的碰撞避免的教程</font></font></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">乐趣！</font></font></strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 通过网络浏览器进行交互式编程</font></font></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">构建和使用 JetBot 提供创建全新 AI 项目所需的实践经验。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要开始使用，请阅读</font></font><a href="https://jetbot.org" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JetBot 文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">参与其中</font></font></h2><a id="user-content-get-involved" class="anchor" aria-label="永久链接：参与其中" href="#get-involved"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们非常感谢任何与 JetBot 相关的反馈，也很高兴看到您正在做的事情！ Jetson Nano 和 JetBot 用户社区不断增长。很容易参与其中...</font></font></p>
 
-> Looking for a quick way to get started with JetBot?  Many third party kits are [now available](https://jetbot.org/master/third_party_kits.html)!
-
-<img src="../..//wiki/images/jetson-jetbot-illustration_1600x1260.png" height="256">
-
-JetBot is an open-source robot based on NVIDIA Jetson Nano that is
-
-* **Affordable** - Less than $150 add-on to Jetson Nano
-* **Educational** - Tutorials from basic motion to AI based collision avoidance
-* **Fun!** - Interactively programmed from your web browser
-
-Building and using JetBot gives the hands on experience needed to create entirely new AI projects.
-
-To get started, read the [JetBot documentation](https://jetbot.org).
-
-## Get involved
-
-We really appreciate any feedback related to JetBot, and also just enjoy seeing what you're working on!  There is a growing community of Jetson Nano and JetBot users.  It's easy to get involved involved...
-
-<!--* Join the [chat server](https://discord.gg/Ady6NtF)-->
-* Ask a question and discuss JetBot related topics on the [JetBot GitHub Discussions](https://github.com/NVIDIA-AI-IOT/jetbot/discussions)
-* Report a bug by [creating an issue](https://github.com/NVIDIA-AI-IOT/jetbot/issues)
-* Share your project or ask a question on the [Jetson Developer Forums](https://devtalk.nvidia.com/default/board/139/jetson-embedded-systems/)
-
-
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><a href="https://github.com/NVIDIA-AI-IOT/jetbot/discussions"><font style="vertical-align: inherit;">在JetBot GitHub 讨论</font></a><font style="vertical-align: inherit;">上提出问题并讨论 JetBot 相关主题</font></font><a href="https://github.com/NVIDIA-AI-IOT/jetbot/discussions"><font style="vertical-align: inherit;"></font></a></li>
+<li><font style="vertical-align: inherit;"><a href="https://github.com/NVIDIA-AI-IOT/jetbot/issues"><font style="vertical-align: inherit;">通过创建问题</font></a><font style="vertical-align: inherit;">来报告错误</font></font><a href="https://github.com/NVIDIA-AI-IOT/jetbot/issues"><font style="vertical-align: inherit;"></font></a></li>
+<li><font style="vertical-align: inherit;"><a href="https://devtalk.nvidia.com/default/board/139/jetson-embedded-systems/" rel="nofollow"><font style="vertical-align: inherit;">在Jetson 开发者论坛</font></a><font style="vertical-align: inherit;">上分享您的项目或提出问题</font></font><a href="https://devtalk.nvidia.com/default/board/139/jetson-embedded-systems/" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+</ul>
+</article></div>
